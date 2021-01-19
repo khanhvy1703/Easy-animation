@@ -1,0 +1,54 @@
+<svg width="800" height="800" version="1.1"
+xmlns="http://www.w3.org/2000/svg">
+<ellipse id="R" cx="115" cy="145" rx="15" ry="45" fill="rgb(90,80,150)" visibility="visible">
+<animate attributeType="xml" begin="1000ms" dur="4000ms" attributeName="cx" from="175" to="355" fill="freeze"/>
+<animate attributeType="xml" begin="1000ms" dur="4000ms" attributeName="y" from="134" to="101" fill="freeze"/>
+<animate attributeType="xml" begin="5000ms" dur="5000ms" attributeName="cx" from="307" to="115" fill="freeze"/>
+<animate attributeType="xml" begin="5000ms" dur="5000ms" attributeName="y" from="209" to="645" fill="freeze"/>
+<animate attributeType="xml" begin="10000ms" dur="8000ms" attributeName="cx" from="107" to="49" fill="freeze"/>
+<animate attributeType="xml" begin="10000ms" dur="8000ms" attributeName="y" from="577" to="101" fill="freeze"/>
+</ellipse>
+<rect id="S" x="10" y="10" width="30" height="90" fill="rgb(0,59,49)" visibility="visible">
+<animate attributeType="xml" begin="1000ms" dur="9000ms" attributeName="fill" from="rgb(27,80,71)" to="rgb(250,250,250)" fill="freeze"/>
+<animate attributeType="xml" begin="10000ms" dur="5000ms" attributeName="fill" from="rgb(218,210,220)" to="rgb(90,50,100)" fill="freeze"/>
+<animate attributeType="xml" begin="15000ms" dur="5000ms" attributeName="width" from="42" to="90" fill="freeze"/>
+<animate attributeType="xml" begin="15000ms" dur="5000ms" attributeName="height" from="82" to="50" fill="freeze"/>
+<animate attributeType="xml" begin="15000ms" dur="5000ms" attributeName="fill" from="rgb(122,54,110)" to="rgb(250,70,150)" fill="freeze"/>
+</rect>
+<rect id="P1" x="212" y="200" width="25" height="50" fill="rgb(45,100,200)" visibility="visible">
+<animate attributeType="xml" begin="1000ms" dur="1000ms" attributeName="width" from="25" to="25" fill="freeze"/>
+<animate attributeType="xml" begin="1000ms" dur="1000ms" attributeName="x" from="212" to="212" fill="freeze"/>
+<animate attributeType="xml" begin="1000ms" dur="9000ms" attributeName="x" from="196" to="62" fill="freeze"/>
+<animate attributeType="xml" begin="1000ms" dur="9000ms" attributeName="y" from="225" to="430" fill="freeze"/>
+<animate attributeType="xml" begin="10000ms" dur="5000ms" attributeName="width" from="30" to="50" fill="freeze"/>
+<animate attributeType="xml" begin="10000ms" dur="5000ms" attributeName="x" from="65" to="75" fill="freeze"/>
+<animate attributeType="xml" begin="10000ms" dur="5000ms" attributeName="height" from="60" to="100" fill="freeze"/>
+</rect>
+<rect id="P1" x="200" y="212" width="50" height="25" fill="rgb(45,100,200)" visibility="visible">
+<animate attributeType="xml" begin="1000ms" dur="1000ms" attributeName="height" from="25" to="25" fill="freeze"/>
+<animate attributeType="xml" begin="1000ms" dur="1000ms" attributeName="y" from="212" to="212" fill="freeze"/>
+<animate attributeType="xml" begin="1000ms" dur="9000ms" attributeName="x" from="184" to="50" fill="freeze"/>
+<animate attributeType="xml" begin="1000ms" dur="9000ms" attributeName="y" from="237" to="442" fill="freeze"/>
+<animate attributeType="xml" begin="10000ms" dur="5000ms" attributeName="width" from="60" to="100" fill="freeze"/>
+<animate attributeType="xml" begin="10000ms" dur="5000ms" attributeName="height" from="30" to="50" fill="freeze"/>
+<animate attributeType="xml" begin="10000ms" dur="5000ms" attributeName="y" from="445" to="455" fill="freeze"/>
+</rect>
+<rect id="P2" x="125" y="300" width="50" height="100" fill="rgb(100,100,100)" visibility="visible">
+<animate attributeType="xml" begin="1000ms" dur="9000ms" attributeName="width" from="46" to="15" fill="freeze"/>
+<animate attributeType="xml" begin="1000ms" dur="9000ms" attributeName="x" from="123" to="107" fill="freeze"/>
+<animate attributeType="xml" begin="1000ms" dur="9000ms" attributeName="height" from="93" to="30" fill="freeze"/>
+</rect>
+<rect id="P2" x="100" y="325" width="100" height="50" fill="rgb(100,100,100)" visibility="visible">
+<animate attributeType="xml" begin="1000ms" dur="9000ms" attributeName="width" from="93" to="30" fill="freeze"/>
+<animate attributeType="xml" begin="1000ms" dur="9000ms" attributeName="height" from="46" to="15" fill="freeze"/>
+<animate attributeType="xml" begin="1000ms" dur="9000ms" attributeName="y" from="323" to="307" fill="freeze"/>
+</rect>
+<rect id="P3" x="125" y="300" width="50" height="100" fill="rgb(144,245,34)" visibility="visible">
+<animate attributeType="xml" begin="1000ms" dur="9000ms" attributeName="x" from="158" to="425" fill="freeze"/>
+<animate attributeType="xml" begin="1000ms" dur="9000ms" attributeName="y" from="311" to="400" fill="freeze"/>
+</rect>
+<rect id="P3" x="100" y="325" width="100" height="50" fill="rgb(144,245,34)" visibility="visible">
+<animate attributeType="xml" begin="1000ms" dur="9000ms" attributeName="x" from="133" to="400" fill="freeze"/>
+<animate attributeType="xml" begin="1000ms" dur="9000ms" attributeName="y" from="336" to="425" fill="freeze"/>
+</rect>
+</svg>
